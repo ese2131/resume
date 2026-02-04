@@ -6,7 +6,4 @@
 - [Columbia University](https://www.columbia.edu)
 - [Trinity University](https://www.trinity.edu)
 
-## Professional Interests
-- Paleoclimatology
-- Climate Policy
-- Natural Resource Management
+## Personal 
